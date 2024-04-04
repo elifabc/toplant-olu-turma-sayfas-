@@ -1,0 +1,27 @@
+{
+  "kurucu": "elif",
+  "baslik": "Vize",
+  "aciklama": "Vize için gerekli bilgilendirme",
+  "tarih": [
+    "2023-12-15",
+    "2023-12-17",
+    "2023-12-21"
+  ],
+  "katilimci": [
+    {
+      "isim": "ali",
+      "tarih": [
+        "2023-12-15",
+        "2023-12-21"
+      ]
+    },
+    {
+      "isim": "merve",
+      "tarih": [
+        "2023-12-15",
+        "2023-12-21"
+      ]
+    }
+  ],
+  "kesinlesenTarih": "2023-12-21"
+}

@@ -1,0 +1,19 @@
+{
+  "kurucu": "sena",
+  "baslik": "deneme",
+  "aciklama": "deme2",
+  "tarih": [
+    "2024-03-21",
+    "2024-03-27",
+    "2024-03-28"
+  ],
+  "katilimci": [
+    {
+      "isim": "sena",
+      "tarih": [
+        "2024-03-28"
+      ]
+    }
+  ],
+  "kesinlesenTarih": "2024-03-28"
+}

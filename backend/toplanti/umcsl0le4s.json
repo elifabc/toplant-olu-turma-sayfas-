@@ -1,0 +1,17 @@
+{
+  "kurucu": "alii",
+  "baslik": "dene",
+  "aciklama": "deneme",
+  "tarih": [
+    "2023-12-20"
+  ],
+  "katilimci": [
+    {
+      "isim": "alii",
+      "tarih": [
+        "2023-12-20"
+      ]
+    }
+  ],
+  "kesinlesenTarih": "2023-12-20"
+}

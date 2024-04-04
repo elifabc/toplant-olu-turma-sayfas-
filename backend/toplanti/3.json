@@ -1,0 +1,30 @@
+{
+  "kurucu": "elif",
+  "baslik": "ders",
+  "aciklama": "proje tanıtımı",
+  "tarih": [
+    "2023-12-08",
+    "2023-12-12"
+  ],
+  "katilimci": [
+    {
+      "isim": "ali",
+      "tarih": [
+        "2023-12-08",
+        "2023-12-12"
+      ]
+    },
+    {
+      "isim": "el",
+      "tarih": [
+        "2023-12-12"
+      ]
+    },
+    {
+      "isim": "deneme",
+      "tarih": [
+        "2023-12-08"
+      ]
+    }
+  ]
+}
